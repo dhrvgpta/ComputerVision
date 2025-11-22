@@ -1,3 +1,5 @@
 image_files/
 .venv/
 local.txt
+notes.md
+.python-version
