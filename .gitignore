@@ -1,5 +1,5 @@
-image_files/
+Data/
 .venv/
 local.txt
-notes.md
+Notes.md
 .python-version

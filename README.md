@@ -1,2 +1,3 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrvgpta/ComputerVisionPipeline/blob/main/sandbox.ipynb)
-[![Download Data](https://img.shields.io/badge/Download-Dataset-blue?style=for-the-badge&logo=download&logoColor=white)](https://iu.instructure.com/courses/2329887/files/197718395/download?download_frd=1)
+[![Download Clustering Dataset](https://img.shields.io/badge/Download-Clustering%20Dataset-blue?style=for-the-badge&logo=download&logoColor=white)](https://iu.instructure.com/courses/2329887/files/197718395/download?download_frd=1)
+[![Download Neural Network Dataset](https://img.shields.io/badge/Download-Neural%20Network%20Dataset-blue?style=for-the-badge&logo=download&logoColor=white)](https://iu.instructure.com/courses/2329887/files/197718395/download?download_frd=1)
