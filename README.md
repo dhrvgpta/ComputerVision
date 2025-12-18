@@ -683,19 +683,3 @@ Or via Google Colab using the badge links in the notebooks.
 8. Vision Transformer: https://arxiv.org/abs/2010.11929
 9. CLIP Paper: https://arxiv.org/abs/2103.00020
 10. ModelvsBaby Dataset: https://osf.io/ba4g2
-
-## License
-
-Academic project for CSCI-P 556 Computer Vision course.
-
-## Author
-
-Sunita Kumari
-
-## Acknowledgments
-
-- Indiana University Bloomington
-- CSCI-P 556 Computer Vision Course
-- Hugging Face for pre-trained models
-- OpenAI for CLIP model
-- Meta AI for FAISS library
