@@ -1,5 +1,100 @@
-Data/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
 .venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment variables
+.env
+.env.local
 local.txt
-Notes.md
+
+# Model files and checkpoints
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.safetensors
+fine_tuned_model/
+checkpoints/
+models/
+*.pkl
+*.faiss
+faiss_index/
+
+# Generated outputs
+*.png
+*.jpg
+*.jpeg
+confusion_matrices.png
+*.pdf
+
+# Data directories (if large)
+Data/
+image_files/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python version
 .python-version
+
+# Documentation (if redundant)
+Notes.md
+knowledge_base.txt
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
