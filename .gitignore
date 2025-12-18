@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -23,32 +22,26 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-# Virtual Environment
 .venv/
 venv/
 ENV/
 env/
 
-# Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# PyCharm / IntelliJ
 .idea/
 *.iml
 *.iws
 *.ipr
 
-# VS Code
 .vscode/
 *.code-workspace
 
-# Environment variables
 .env
 .env.local
 local.txt
 
-# Model files and checkpoints
 *.pth
 *.pt
 *.h5
@@ -61,18 +54,12 @@ models/
 *.faiss
 faiss_index/
 
-# Generated outputs
 *.png
 *.jpg
 *.jpeg
 confusion_matrices.png
 *.pdf
 
-# Data directories (if large)
-Data/
-image_files/
-
-# OS files
 .DS_Store
 .DS_Store?
 ._*
@@ -81,18 +68,11 @@ image_files/
 ehthumbs.db
 Thumbs.db
 
-# Python version
 .python-version
 
-# Documentation (if redundant)
-Notes.md
-knowledge_base.txt
-
-# Logs
 *.log
 logs/
 
-# Temporary files
 *.tmp
 *.temp
 *.swp
